@@ -11,7 +11,7 @@ supports 'ubuntu', '>= 12.04'
 recipe 'thumbor::default', 'Installs and configures thumbor'
 
 depends 'apt'
-depends 'python'
+depends 'poise-python'
 depends 'nginx'
 depends 'monit-ng'
 depends 'redisio'

@@ -27,7 +27,7 @@ Requirements
 ## Cookbooks:
 
 - `apt` - Configures apt and apt services and LWRPs for managing apt repositories and preferences
-- `python` - Installs Python, pip and virtualenv.
+- `poise-python` - Installs Python, pip and virtualenv.
 - `nginx` - Installs and configures nginx
 - `monit-ng` - Installs and configures monit
 - `redisio` - Installs/Configures redis
